@@ -1,0 +1,3006 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung 65\\\" QLED 4K TV",
+    "type": "TVs",
+    "price": 1299.99,
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Samsung+TV",
+    "platformAddedDate": "2021-07-11",
+    "shortDescription": "65\\\" QLED 4K Smart TV with HDR",
+    "longDescription": "Experience stunning picture quality with Quantum Dot technology, delivering over a billion shades of color. Features AI-powered 4K upscaling and smart TV capabilities.",
+    "reviews": [
+      {
+        "id": 1,
+        "userName": "John D.",
+        "rating": 5,
+        "comment": "Amazing picture quality!",
+        "date": "2024-03-15"
+      },
+      {
+        "id": 2,
+        "userName": "Sarah M.",
+        "rating": 4,
+        "comment": "Great TV, but setup was a bit tricky",
+        "date": "2024-03-14"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "type": "Phones",
+    "price": 999.99,
+    "rating": 4.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=iPhone+15+Pro",
+    "platformAddedDate": "2023-02-15",
+    "shortDescription": "Latest iPhone with Pro camera system",
+    "longDescription": "The iPhone 15 Pro features a revolutionary camera system, powerful A17 Pro chip, and stunning Super Retina XDR display with ProMotion.",
+    "reviews": [
+      {
+        "id": 3,
+        "userName": "Mike R.",
+        "rating": 5,
+        "comment": "Best phone I've ever had!",
+        "date": "2024-03-13"
+      },
+      {
+        "id": 4,
+        "userName": "Emily W.",
+        "rating": 4.5,
+        "comment": "Camera is incredible",
+        "date": "2024-03-12"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sony PlayStation 5",
+    "type": "Video Games",
+    "price": 499.99,
+    "rating": 4.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=PlayStation+5",
+    "platformAddedDate": "2024-07-11",
+    "shortDescription": "Next-gen gaming console with SSD",
+    "longDescription": "The PS5 offers lightning-fast loading with an ultra-high-speed SSD, deeper immersion with haptic feedback and adaptive triggers, and stunning 4K graphics.",
+    "reviews": [
+      {
+        "id": 5,
+        "userName": "James K.",
+        "rating": 5,
+        "comment": "Best console ever made!",
+        "date": "2024-03-10"
+      },
+      {
+        "id": 6,
+        "userName": "Melissa T.",
+        "rating": 4.5,
+        "comment": "Amazing graphics but still hard to find games",
+        "date": "2024-03-08"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dell XPS 15 Laptop",
+    "type": "Computers",
+    "price": 1599.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Dell+XPS+15",
+    "platformAddedDate": "2019-09-01",
+    "shortDescription": "Premium 15-inch laptop with 4K display",
+    "longDescription": "The Dell XPS 15 features a stunning 4K InfinityEdge display, powerful Intel Core processors, and NVIDIA graphics in a sleek, lightweight design.",
+    "reviews": [
+      {
+        "id": 7,
+        "userName": "Alex T.",
+        "rating": 5,
+        "comment": "Powerful and beautiful design!",
+        "date": "2024-03-05"
+      },
+      {
+        "id": 8,
+        "userName": "Rachel P.",
+        "rating": 4,
+        "comment": "Great laptop but runs hot under load",
+        "date": "2024-03-02"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bose QuietComfort Headphones",
+    "type": "Audio",
+    "price": 329.99,
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Bose+Headphones",
+    "platformAddedDate": "2021-01-31",
+    "shortDescription": "Wireless noise-cancelling headphones",
+    "longDescription": "Industry-leading noise cancellation with premium sound quality. Features 20 hours of battery life, comfortable design, and seamless Bluetooth connectivity.",
+    "reviews": [
+      {
+        "id": 9,
+        "userName": "Mark L.",
+        "rating": 5,
+        "comment": "Best noise cancellation on the market!",
+        "date": "2024-02-28"
+      },
+      {
+        "id": 10,
+        "userName": "Jessica B.",
+        "rating": 4,
+        "comment": "Great sound but ear cushions could be more comfortable",
+        "date": "2024-02-25"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sony Smart TV",
+    "type": "TVs",
+    "price": 787.99,
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Sony%20Smart%20TV",
+    "platformAddedDate": "2025-05-04",
+    "shortDescription": "AI-Powered Smart TV",
+    "longDescription": "Revolutionary display technology delivers incredible picture quality with true-to-life colors and perfect blacks.",
+    "reviews": [
+      {
+        "id": 60,
+        "userName": "James H.",
+        "rating": 5,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-05-08"
+      },
+      {
+        "id": 61,
+        "userName": "Sophia G.",
+        "rating": 4.5,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-23"
+      },
+      {
+        "id": 62,
+        "userName": "Robert T.",
+        "rating": 4.7,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-04-19"
+      },
+      {
+        "id": 63,
+        "userName": "Emma R.",
+        "rating": 3.1,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-03-30"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "GE Coffee Maker",
+    "type": "Appliances",
+    "price": 1107.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=GE%20Coffee%20Maker",
+    "platformAddedDate": "2025-03-04",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Make your home smarter with this connected appliance featuring intelligent sensors and smartphone control.",
+    "reviews": [
+      {
+        "id": 70,
+        "userName": "Emma R.",
+        "rating": 3.5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-04-01"
+      },
+      {
+        "id": 71,
+        "userName": "James H.",
+        "rating": 4.5,
+        "comment": "Solid performance.",
+        "date": "2025-02-26"
+      },
+      {
+        "id": 72,
+        "userName": "Emma R.",
+        "rating": 3.1,
+        "comment": "Works exactly as described.",
+        "date": "2025-03-17"
+      },
+      {
+        "id": 73,
+        "userName": "Mia J.",
+        "rating": 4.2,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Whirlpool Coffee Maker",
+    "type": "Appliances",
+    "price": 795.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Whirlpool%20Coffee%20Maker",
+    "platformAddedDate": "2025-03-09",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Simplify your daily routine with this efficient and reliable appliance. Features modern design and advanced technology.",
+    "reviews": [
+      {
+        "id": 80,
+        "userName": "Michael S.",
+        "rating": 3.3,
+        "comment": "Easy to set up and use.",
+        "date": "2025-02-27"
+      },
+      {
+        "id": 81,
+        "userName": "Jennifer K.",
+        "rating": 4.7,
+        "comment": "Solid performance.",
+        "date": "2025-04-08"
+      },
+      {
+        "id": 82,
+        "userName": "David L.",
+        "rating": 3.1,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Xiaomi Pro",
+    "type": "Phones",
+    "price": 1045.99,
+    "rating": 3.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Xiaomi%20Pro",
+    "platformAddedDate": "2025-02-11",
+    "shortDescription": "Ultra-Fast Smartphone with AI",
+    "longDescription": "Powered by advanced AI for intelligent features and optimized performance. Features a stunning display and premium design.",
+    "reviews": [
+      {
+        "id": 90,
+        "userName": "Emma R.",
+        "rating": 3.9,
+        "comment": "Perfect for my needs.",
+        "date": "2025-03-29"
+      },
+      {
+        "id": 91,
+        "userName": "Jennifer K.",
+        "rating": 4.6,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-05-08"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Nintendo Gaming Monitor",
+    "type": "Video Games",
+    "price": 85.99,
+    "rating": 4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Nintendo%20Gaming%20Monitor",
+    "platformAddedDate": "2025-03-28",
+    "shortDescription": "Premium Gaming Accessory",
+    "longDescription": "Designed for competitive gamers with precision controls and minimal latency. Built to withstand intense gaming sessions.",
+    "reviews": [
+      {
+        "id": 100,
+        "userName": "Jennifer K.",
+        "rating": 4.8,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-03-30"
+      },
+      {
+        "id": 101,
+        "userName": "Mia J.",
+        "rating": 4.9,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-03-13"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "TCL OLED",
+    "type": "TVs",
+    "price": 1956.99,
+    "rating": 3.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=TCL%20OLED",
+    "platformAddedDate": "2025-04-14",
+    "shortDescription": "Ultra HD Smart Television",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 110,
+        "userName": "William P.",
+        "rating": 4.4,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-04-07"
+      },
+      {
+        "id": 111,
+        "userName": "Sophia G.",
+        "rating": 4.9,
+        "comment": "Great value for the price.",
+        "date": "2025-04-22"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Philips OLED",
+    "type": "TVs",
+    "price": 560.99,
+    "rating": 3.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Philips%20OLED",
+    "platformAddedDate": "2025-05-04",
+    "shortDescription": "4K Smart TV with HDR",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 120,
+        "userName": "Emma R.",
+        "rating": 3.2,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-04-20"
+      },
+      {
+        "id": 121,
+        "userName": "Ava C.",
+        "rating": 4.7,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-05"
+      },
+      {
+        "id": 122,
+        "userName": "William P.",
+        "rating": 3.9,
+        "comment": "Love the design and functionality.",
+        "date": "2025-02-10"
+      },
+      {
+        "id": 123,
+        "userName": "Jennifer K.",
+        "rating": 3.4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-04-07"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Samsung Microwave",
+    "type": "Appliances",
+    "price": 1108.99,
+    "rating": 4.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Samsung%20Microwave",
+    "platformAddedDate": "2025-04-24",
+    "shortDescription": "Energy-Efficient Appliance",
+    "longDescription": "Simplify your daily routine with this efficient and reliable appliance. Features modern design and advanced technology.",
+    "reviews": [
+      {
+        "id": 130,
+        "userName": "Olivia M.",
+        "rating": 3.2,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-04-07"
+      },
+      {
+        "id": 131,
+        "userName": "Olivia M.",
+        "rating": 5,
+        "comment": "Better than expected quality.",
+        "date": "2025-03-19"
+      },
+      {
+        "id": 132,
+        "userName": "Thomas B.",
+        "rating": 4.4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-04"
+      },
+      {
+        "id": 133,
+        "userName": "Emma R.",
+        "rating": 4.9,
+        "comment": "Better than expected quality.",
+        "date": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "GE Refrigerator",
+    "type": "Appliances",
+    "price": 719.99,
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=GE%20Refrigerator",
+    "platformAddedDate": "2025-03-15",
+    "shortDescription": "Energy-Efficient Appliance",
+    "longDescription": "Simplify your daily routine with this efficient and reliable appliance. Features modern design and advanced technology.",
+    "reviews": [
+      {
+        "id": 140,
+        "userName": "Isabella N.",
+        "rating": 4.3,
+        "comment": "Works exactly as described.",
+        "date": "2025-02-08"
+      },
+      {
+        "id": 141,
+        "userName": "Mia J.",
+        "rating": 5,
+        "comment": "Easy to set up and use.",
+        "date": "2025-04-29"
+      },
+      {
+        "id": 142,
+        "userName": "Charlotte W.",
+        "rating": 4.9,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-19"
+      },
+      {
+        "id": 143,
+        "userName": "Thomas B.",
+        "rating": 3.8,
+        "comment": "Best purchase I've made this year.",
+        "date": "2025-04-05"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Vizio Smart TV",
+    "type": "TVs",
+    "price": 1853.99,
+    "rating": 4.4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Vizio%20Smart%20TV",
+    "platformAddedDate": "2025-04-22",
+    "shortDescription": "Smart LED TV with Streaming",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 150,
+        "userName": "William P.",
+        "rating": 4,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-02-26"
+      },
+      {
+        "id": 151,
+        "userName": "Michael S.",
+        "rating": 3.4,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-02-19"
+      },
+      {
+        "id": 152,
+        "userName": "Michael S.",
+        "rating": 4.8,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-03-02"
+      },
+      {
+        "id": 153,
+        "userName": "Sophia G.",
+        "rating": 4.3,
+        "comment": "Best purchase I've made this year.",
+        "date": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Lenovo Tower",
+    "type": "Computers",
+    "price": 1679.99,
+    "rating": 4.2,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Lenovo%20Tower",
+    "platformAddedDate": "2025-03-03",
+    "shortDescription": "Premium PC with SSD",
+    "longDescription": "All-day battery life in an incredibly thin and light design. Perfect for productivity on the go with premium build quality.",
+    "reviews": [
+      {
+        "id": 160,
+        "userName": "Sophia G.",
+        "rating": 3.5,
+        "comment": "Easy to set up and use.",
+        "date": "2025-02-21"
+      },
+      {
+        "id": 161,
+        "userName": "Michael S.",
+        "rating": 4.9,
+        "comment": "Solid performance.",
+        "date": "2025-04-06"
+      },
+      {
+        "id": 162,
+        "userName": "Charlotte W.",
+        "rating": 3.1,
+        "comment": "Absolutely love this product!",
+        "date": "2025-04-01"
+      },
+      {
+        "id": 163,
+        "userName": "Richard F.",
+        "rating": 5,
+        "comment": "Easy to set up and use.",
+        "date": "2025-03-11"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "MSI Workstation",
+    "type": "Computers",
+    "price": 1709.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=MSI%20Workstation",
+    "platformAddedDate": "2025-03-04",
+    "shortDescription": "Ultra-Thin Laptop with Long Battery Life",
+    "longDescription": "Blazing-fast performance for demanding tasks with the latest processor and graphics. Features a premium display and build quality.",
+    "reviews": [
+      {
+        "id": 170,
+        "userName": "William P.",
+        "rating": 4.8,
+        "comment": "Better than expected quality.",
+        "date": "2025-03-12"
+      },
+      {
+        "id": 171,
+        "userName": "Olivia M.",
+        "rating": 4,
+        "comment": "Works exactly as described.",
+        "date": "2025-02-13"
+      },
+      {
+        "id": 172,
+        "userName": "Michael S.",
+        "rating": 4.3,
+        "comment": "Best purchase I've made this year.",
+        "date": "2025-05-05"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Audio-Technica Receiver",
+    "type": "Audio",
+    "price": 81.99,
+    "rating": 3.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Audio-Technica%20Receiver",
+    "platformAddedDate": "2025-04-16",
+    "shortDescription": "High-Fidelity Audio Experience",
+    "longDescription": "Advanced noise cancellation technology blocks out the world around you. Enjoy your music without distractions.",
+    "reviews": [
+      {
+        "id": 180,
+        "userName": "Olivia M.",
+        "rating": 3.4,
+        "comment": "Works exactly as described.",
+        "date": "2025-05-02"
+      },
+      {
+        "id": 181,
+        "userName": "Sophia G.",
+        "rating": 5,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-04-15"
+      },
+      {
+        "id": 182,
+        "userName": "Robert T.",
+        "rating": 3.4,
+        "comment": "Solid performance.",
+        "date": "2025-02-17"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "JBL Receiver",
+    "type": "Audio",
+    "price": 250.99,
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=JBL%20Receiver",
+    "platformAddedDate": "2025-02-16",
+    "shortDescription": "High-Fidelity Audio Experience",
+    "longDescription": "Experience music the way it was meant to be heard with studio-quality sound reproduction and comfortable design.",
+    "reviews": [
+      {
+        "id": 190,
+        "userName": "Richard F.",
+        "rating": 3.5,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-13"
+      },
+      {
+        "id": 191,
+        "userName": "Jennifer K.",
+        "rating": 4.3,
+        "comment": "Great value for the price.",
+        "date": "2025-04-11"
+      },
+      {
+        "id": 192,
+        "userName": "Ava C.",
+        "rating": 4.3,
+        "comment": "Absolutely love this product!",
+        "date": "2025-03-21"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "MSI VR Headset",
+    "type": "Video Games",
+    "price": 62.99,
+    "rating": 3.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=MSI%20VR%20Headset",
+    "platformAddedDate": "2025-04-01",
+    "shortDescription": "Next-Gen Gaming Experience",
+    "longDescription": "Immerse yourself in stunning worlds with realistic graphics and 3D audio. Features advanced haptic feedback for deeper immersion.",
+    "reviews": [
+      {
+        "id": 200,
+        "userName": "William P.",
+        "rating": 4.6,
+        "comment": "Works exactly as described.",
+        "date": "2025-03-14"
+      },
+      {
+        "id": 201,
+        "userName": "Mia J.",
+        "rating": 3.6,
+        "comment": "Great value for the price.",
+        "date": "2025-02-19"
+      },
+      {
+        "id": 202,
+        "userName": "Charlotte W.",
+        "rating": 3.3,
+        "comment": "Great value for the price.",
+        "date": "2025-02-22"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Philips NanoCell",
+    "type": "TVs",
+    "price": 1387.99,
+    "rating": 4.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Philips%20NanoCell",
+    "platformAddedDate": "2025-04-20",
+    "shortDescription": "4K Smart TV with HDR",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 210,
+        "userName": "Thomas B.",
+        "rating": 4.4,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-04-29"
+      },
+      {
+        "id": 211,
+        "userName": "Charlotte W.",
+        "rating": 4.6,
+        "comment": "Easy to set up and use.",
+        "date": "2025-04-24"
+      },
+      {
+        "id": 212,
+        "userName": "William P.",
+        "rating": 3.1,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-04-10"
+      },
+      {
+        "id": 213,
+        "userName": "Sophia G.",
+        "rating": 4,
+        "comment": "Absolutely love this product!",
+        "date": "2025-04-02"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Xbox Gaming Monitor",
+    "type": "Video Games",
+    "price": 269.99,
+    "rating": 3.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Xbox%20Gaming%20Monitor",
+    "platformAddedDate": "2025-04-03",
+    "shortDescription": "Immersive Gaming System",
+    "longDescription": "Designed for competitive gamers with precision controls and minimal latency. Built to withstand intense gaming sessions.",
+    "reviews": [
+      {
+        "id": 220,
+        "userName": "Charlotte W.",
+        "rating": 4.2,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-13"
+      },
+      {
+        "id": 221,
+        "userName": "William P.",
+        "rating": 4.5,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-04-06"
+      },
+      {
+        "id": 222,
+        "userName": "William P.",
+        "rating": 4.8,
+        "comment": "Solid performance.",
+        "date": "2025-04-21"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Oculus Gaming Monitor",
+    "type": "Video Games",
+    "price": 173.99,
+    "rating": 4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Oculus%20Gaming%20Monitor",
+    "platformAddedDate": "2025-04-24",
+    "shortDescription": "High-Performance Gaming",
+    "longDescription": "Immerse yourself in stunning worlds with realistic graphics and 3D audio. Features advanced haptic feedback for deeper immersion.",
+    "reviews": [
+      {
+        "id": 230,
+        "userName": "Richard F.",
+        "rating": 3.8,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-19"
+      },
+      {
+        "id": 231,
+        "userName": "Isabella N.",
+        "rating": 4.4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-04-28"
+      },
+      {
+        "id": 232,
+        "userName": "Jennifer K.",
+        "rating": 4.9,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-22"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Acer All-in-One",
+    "type": "Computers",
+    "price": 829.99,
+    "rating": 4.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Acer%20All-in-One",
+    "platformAddedDate": "2025-05-04",
+    "shortDescription": "Powerful Workstation",
+    "longDescription": "Lightning-fast SSD storage and ample RAM for smooth multitasking. Designed for both work and entertainment.",
+    "reviews": [
+      {
+        "id": 240,
+        "userName": "Olivia M.",
+        "rating": 3.7,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-03-21"
+      },
+      {
+        "id": 241,
+        "userName": "Mia J.",
+        "rating": 4.6,
+        "comment": "Better than expected quality.",
+        "date": "2025-04-22"
+      },
+      {
+        "id": 242,
+        "userName": "William P.",
+        "rating": 3.1,
+        "comment": "Easy to set up and use.",
+        "date": "2025-04-02"
+      },
+      {
+        "id": 243,
+        "userName": "Michael S.",
+        "rating": 4.5,
+        "comment": "Solid performance.",
+        "date": "2025-04-28"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Hisense Crystal UHD",
+    "type": "TVs",
+    "price": 1452.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Hisense%20Crystal%20UHD",
+    "platformAddedDate": "2025-02-17",
+    "shortDescription": "AI-Powered Smart TV",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 250,
+        "userName": "Robert T.",
+        "rating": 4.1,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-04-13"
+      },
+      {
+        "id": 251,
+        "userName": "Michael S.",
+        "rating": 3.2,
+        "comment": "Perfect for my needs.",
+        "date": "2025-04-21"
+      },
+      {
+        "id": 252,
+        "userName": "Thomas B.",
+        "rating": 3.9,
+        "comment": "Great value for the price.",
+        "date": "2025-04-14"
+      },
+      {
+        "id": 253,
+        "userName": "Mia J.",
+        "rating": 3.8,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-03-22"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Samsung 4K HDR",
+    "type": "TVs",
+    "price": 487.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Samsung%204K%20HDR",
+    "platformAddedDate": "2025-03-30",
+    "shortDescription": "AI-Powered Smart TV",
+    "longDescription": "Immerse yourself in lifelike picture quality with HDR technology. Smart features allow easy access to your favorite content.",
+    "reviews": [
+      {
+        "id": 260,
+        "userName": "Michael S.",
+        "rating": 3.1,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-03-12"
+      },
+      {
+        "id": 261,
+        "userName": "Jennifer K.",
+        "rating": 5,
+        "comment": "Solid performance.",
+        "date": "2025-02-19"
+      },
+      {
+        "id": 262,
+        "userName": "Ava C.",
+        "rating": 4.2,
+        "comment": "Solid performance.",
+        "date": "2025-04-17"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "HP Tower",
+    "type": "Computers",
+    "price": 1887.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=HP%20Tower",
+    "platformAddedDate": "2025-02-08",
+    "shortDescription": "Premium PC with SSD",
+    "longDescription": "Blazing-fast performance for demanding tasks with the latest processor and graphics. Features a premium display and build quality.",
+    "reviews": [
+      {
+        "id": 270,
+        "userName": "Olivia M.",
+        "rating": 4.7,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-04-10"
+      },
+      {
+        "id": 271,
+        "userName": "Thomas B.",
+        "rating": 4,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-02-20"
+      },
+      {
+        "id": 272,
+        "userName": "Jennifer K.",
+        "rating": 4.1,
+        "comment": "Great value for the price.",
+        "date": "2025-03-06"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Samsung Crystal UHD",
+    "type": "TVs",
+    "price": 2271.99,
+    "rating": 3.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Samsung%20Crystal%20UHD",
+    "platformAddedDate": "2025-05-08",
+    "shortDescription": "AI-Powered Smart TV",
+    "longDescription": "Immerse yourself in lifelike picture quality with HDR technology. Smart features allow easy access to your favorite content.",
+    "reviews": [
+      {
+        "id": 280,
+        "userName": "Sophia G.",
+        "rating": 3,
+        "comment": "Great value for the price.",
+        "date": "2025-02-23"
+      },
+      {
+        "id": 281,
+        "userName": "Richard F.",
+        "rating": 4.4,
+        "comment": "Solid performance.",
+        "date": "2025-04-27"
+      },
+      {
+        "id": 282,
+        "userName": "Olivia M.",
+        "rating": 3.6,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-03-15"
+      },
+      {
+        "id": 283,
+        "userName": "Charlotte W.",
+        "rating": 3.6,
+        "comment": "Absolutely love this product!",
+        "date": "2025-03-08"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Bosch Vacuum",
+    "type": "Appliances",
+    "price": 1121.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Bosch%20Vacuum",
+    "platformAddedDate": "2025-03-25",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Save on energy costs while enjoying premium performance. Features quiet operation and durable construction.",
+    "reviews": [
+      {
+        "id": 290,
+        "userName": "Robert T.",
+        "rating": 3.4,
+        "comment": "Great value for the price.",
+        "date": "2025-02-13"
+      },
+      {
+        "id": 291,
+        "userName": "Thomas B.",
+        "rating": 3.6,
+        "comment": "Best purchase I've made this year.",
+        "date": "2025-02-21"
+      },
+      {
+        "id": 292,
+        "userName": "Charlotte W.",
+        "rating": 3.9,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-05-08"
+      },
+      {
+        "id": 293,
+        "userName": "David L.",
+        "rating": 3.8,
+        "comment": "Works exactly as described.",
+        "date": "2025-03-29"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "JBL Receiver",
+    "type": "Audio",
+    "price": 222.99,
+    "rating": 3.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=JBL%20Receiver",
+    "platformAddedDate": "2025-04-11",
+    "shortDescription": "Noise Cancelling Sound",
+    "longDescription": "Experience music the way it was meant to be heard with studio-quality sound reproduction and comfortable design.",
+    "reviews": [
+      {
+        "id": 300,
+        "userName": "James H.",
+        "rating": 3.4,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-23"
+      },
+      {
+        "id": 301,
+        "userName": "Olivia M.",
+        "rating": 4.1,
+        "comment": "Works exactly as described.",
+        "date": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Alienware Gaming Headset",
+    "type": "Video Games",
+    "price": 432.99,
+    "rating": 4.2,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Alienware%20Gaming%20Headset",
+    "platformAddedDate": "2025-04-03",
+    "shortDescription": "Immersive Gaming System",
+    "longDescription": "Designed for competitive gamers with precision controls and minimal latency. Built to withstand intense gaming sessions.",
+    "reviews": [
+      {
+        "id": 310,
+        "userName": "Joseph D.",
+        "rating": 3.2,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-05-04"
+      },
+      {
+        "id": 311,
+        "userName": "Thomas B.",
+        "rating": 4,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-04-14"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Maytag Microwave",
+    "type": "Appliances",
+    "price": 1114.99,
+    "rating": 4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Maytag%20Microwave",
+    "platformAddedDate": "2025-05-05",
+    "shortDescription": "Smart Home Appliance",
+    "longDescription": "Save on energy costs while enjoying premium performance. Features quiet operation and durable construction.",
+    "reviews": [
+      {
+        "id": 320,
+        "userName": "Mia J.",
+        "rating": 3.8,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-22"
+      },
+      {
+        "id": 321,
+        "userName": "James H.",
+        "rating": 4.9,
+        "comment": "Solid performance.",
+        "date": "2025-03-16"
+      },
+      {
+        "id": 322,
+        "userName": "Michael S.",
+        "rating": 4.6,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-15"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Sony Headphones",
+    "type": "Audio",
+    "price": 192.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Sony%20Headphones",
+    "platformAddedDate": "2025-04-23",
+    "shortDescription": "Wireless Audio with Deep Bass",
+    "longDescription": "Advanced noise cancellation technology blocks out the world around you. Enjoy your music without distractions.",
+    "reviews": [
+      {
+        "id": 330,
+        "userName": "David L.",
+        "rating": 4.1,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-02-22"
+      },
+      {
+        "id": 331,
+        "userName": "Sophia G.",
+        "rating": 3.3,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-04-18"
+      },
+      {
+        "id": 332,
+        "userName": "Robert T.",
+        "rating": 4.2,
+        "comment": "Perfect for my needs.",
+        "date": "2025-02-17"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Dyson Air Purifier",
+    "type": "Appliances",
+    "price": 869.99,
+    "rating": 3.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Dyson%20Air%20Purifier",
+    "platformAddedDate": "2025-02-16",
+    "shortDescription": "Energy-Efficient Appliance",
+    "longDescription": "Make your home smarter with this connected appliance featuring intelligent sensors and smartphone control.",
+    "reviews": [
+      {
+        "id": 340,
+        "userName": "Mia J.",
+        "rating": 4.6,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-02-22"
+      },
+      {
+        "id": 341,
+        "userName": "Michael S.",
+        "rating": 3.1,
+        "comment": "Great value for the price.",
+        "date": "2025-04-29"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "MSI Gaming Monitor",
+    "type": "Video Games",
+    "price": 340.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=MSI%20Gaming%20Monitor",
+    "platformAddedDate": "2025-05-02",
+    "shortDescription": "Premium Gaming Accessory",
+    "longDescription": "Enhanced gaming experience with premium materials and ergonomic design. Compatible with all major gaming platforms.",
+    "reviews": [
+      {
+        "id": 350,
+        "userName": "Robert T.",
+        "rating": 3.4,
+        "comment": "Works exactly as described.",
+        "date": "2025-02-15"
+      },
+      {
+        "id": 351,
+        "userName": "Thomas B.",
+        "rating": 3.9,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-02-27"
+      },
+      {
+        "id": 352,
+        "userName": "James H.",
+        "rating": 4.7,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-04-15"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Nintendo Controller",
+    "type": "Video Games",
+    "price": 309.99,
+    "rating": 3.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Nintendo%20Controller",
+    "platformAddedDate": "2025-02-23",
+    "shortDescription": "Next-Gen Gaming Experience",
+    "longDescription": "Immerse yourself in stunning worlds with realistic graphics and 3D audio. Features advanced haptic feedback for deeper immersion.",
+    "reviews": [
+      {
+        "id": 360,
+        "userName": "Isabella N.",
+        "rating": 3.8,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-27"
+      },
+      {
+        "id": 361,
+        "userName": "Olivia M.",
+        "rating": 4.6,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-02-13"
+      },
+      {
+        "id": 362,
+        "userName": "Michael S.",
+        "rating": 3.2,
+        "comment": "Love the design and functionality.",
+        "date": "2025-02-08"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Samsung Max",
+    "type": "Phones",
+    "price": 609.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Samsung%20Max",
+    "platformAddedDate": "2025-02-08",
+    "shortDescription": "Ultra-Fast Smartphone with AI",
+    "longDescription": "Capture amazing photos in any lighting with the advanced camera system. All-day battery life and premium build quality.",
+    "reviews": [
+      {
+        "id": 370,
+        "userName": "Isabella N.",
+        "rating": 4.6,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-04-01"
+      },
+      {
+        "id": 371,
+        "userName": "James H.",
+        "rating": 4.5,
+        "comment": "Better than expected quality.",
+        "date": "2025-04-01"
+      },
+      {
+        "id": 372,
+        "userName": "Olivia M.",
+        "rating": 3.6,
+        "comment": "Works exactly as described.",
+        "date": "2025-02-18"
+      },
+      {
+        "id": 373,
+        "userName": "Joseph D.",
+        "rating": 4,
+        "comment": "Solid performance.",
+        "date": "2025-02-12"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Sony Max",
+    "type": "Phones",
+    "price": 692.99,
+    "rating": 5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Sony%20Max",
+    "platformAddedDate": "2025-04-13",
+    "shortDescription": "Flagship Phone with AMOLED Display",
+    "longDescription": "Capture amazing photos in any lighting with the advanced camera system. All-day battery life and premium build quality.",
+    "reviews": [
+      {
+        "id": 380,
+        "userName": "Emma R.",
+        "rating": 3.2,
+        "comment": "Works exactly as described.",
+        "date": "2025-04-28"
+      },
+      {
+        "id": 381,
+        "userName": "Emma R.",
+        "rating": 3.9,
+        "comment": "Great value for the price.",
+        "date": "2025-04-18"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Apple Mini",
+    "type": "Phones",
+    "price": 456.99,
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Apple%20Mini",
+    "platformAddedDate": "2025-04-04",
+    "shortDescription": "5G Smartphone with Pro Camera",
+    "longDescription": "Capture amazing photos in any lighting with the advanced camera system. All-day battery life and premium build quality.",
+    "reviews": [
+      {
+        "id": 390,
+        "userName": "Richard F.",
+        "rating": 4.2,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-04"
+      },
+      {
+        "id": 391,
+        "userName": "Sophia G.",
+        "rating": 3.5,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-03-10"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Samsung Microwave",
+    "type": "Appliances",
+    "price": 788.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Samsung%20Microwave",
+    "platformAddedDate": "2025-03-14",
+    "shortDescription": "Energy-Efficient Appliance",
+    "longDescription": "Make your home smarter with this connected appliance featuring intelligent sensors and smartphone control.",
+    "reviews": [
+      {
+        "id": 400,
+        "userName": "Sophia G.",
+        "rating": 4.9,
+        "comment": "Great value for the price.",
+        "date": "2025-03-08"
+      },
+      {
+        "id": 401,
+        "userName": "Robert T.",
+        "rating": 3.6,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-04-12"
+      },
+      {
+        "id": 402,
+        "userName": "Jennifer K.",
+        "rating": 4.8,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-02-13"
+      },
+      {
+        "id": 403,
+        "userName": "Mia J.",
+        "rating": 4.2,
+        "comment": "Better than expected quality.",
+        "date": "2025-04-14"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Audio-Technica Turntable",
+    "type": "Audio",
+    "price": 146.99,
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Audio-Technica%20Turntable",
+    "platformAddedDate": "2025-04-05",
+    "shortDescription": "Wireless Audio with Deep Bass",
+    "longDescription": "Fill your room with immersive, multi-dimensional sound. Smart features allow seamless integration with your home setup.",
+    "reviews": [
+      {
+        "id": 410,
+        "userName": "Thomas B.",
+        "rating": 4,
+        "comment": "Easy to set up and use.",
+        "date": "2025-05-03"
+      },
+      {
+        "id": 411,
+        "userName": "Charlotte W.",
+        "rating": 3.5,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-04-19"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Maytag Blender",
+    "type": "Appliances",
+    "price": 1022.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Maytag%20Blender",
+    "platformAddedDate": "2025-03-11",
+    "shortDescription": "Energy-Efficient Appliance",
+    "longDescription": "Professional-grade performance brings commercial quality to your home. Features intuitive controls and premium finish.",
+    "reviews": [
+      {
+        "id": 420,
+        "userName": "William P.",
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-05-05"
+      },
+      {
+        "id": 421,
+        "userName": "Olivia M.",
+        "rating": 3.4,
+        "comment": "Better than expected quality.",
+        "date": "2025-03-05"
+      },
+      {
+        "id": 422,
+        "userName": "James H.",
+        "rating": 3.4,
+        "comment": "Absolutely love this product!",
+        "date": "2025-05-05"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Maytag Washing Machine",
+    "type": "Appliances",
+    "price": 220.99,
+    "rating": 4.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Maytag%20Washing%20Machine",
+    "platformAddedDate": "2025-03-19",
+    "shortDescription": "Premium Kitchen Appliance",
+    "longDescription": "Make your home smarter with this connected appliance featuring intelligent sensors and smartphone control.",
+    "reviews": [
+      {
+        "id": 430,
+        "userName": "Joseph D.",
+        "rating": 3.4,
+        "comment": "Perfect for my needs.",
+        "date": "2025-03-14"
+      },
+      {
+        "id": 431,
+        "userName": "Ava C.",
+        "rating": 3.4,
+        "comment": "Love the design and functionality.",
+        "date": "2025-04-02"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "LG Crystal UHD",
+    "type": "TVs",
+    "price": 1718.99,
+    "rating": 3.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=LG%20Crystal%20UHD",
+    "platformAddedDate": "2025-05-02",
+    "shortDescription": "AI-Powered Smart TV",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 440,
+        "userName": "Thomas B.",
+        "rating": 3.1,
+        "comment": "Great value for the price.",
+        "date": "2025-04-06"
+      },
+      {
+        "id": 441,
+        "userName": "Joseph D.",
+        "rating": 3.5,
+        "comment": "Works exactly as described.",
+        "date": "2025-05-04"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Dyson Washing Machine",
+    "type": "Appliances",
+    "price": 967.99,
+    "rating": 4.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Dyson%20Washing%20Machine",
+    "platformAddedDate": "2025-03-31",
+    "shortDescription": "Smart Home Appliance",
+    "longDescription": "Make your home smarter with this connected appliance featuring intelligent sensors and smartphone control.",
+    "reviews": [
+      {
+        "id": 450,
+        "userName": "David L.",
+        "rating": 4.1,
+        "comment": "Absolutely love this product!",
+        "date": "2025-03-07"
+      },
+      {
+        "id": 451,
+        "userName": "Richard F.",
+        "rating": 4.6,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-02-14"
+      },
+      {
+        "id": 452,
+        "userName": "Charlotte W.",
+        "rating": 3.7,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-04-25"
+      },
+      {
+        "id": 453,
+        "userName": "Richard F.",
+        "rating": 4.1,
+        "comment": "Love the design and functionality.",
+        "date": "2025-03-04"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Bosch Coffee Maker",
+    "type": "Appliances",
+    "price": 424.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Bosch%20Coffee%20Maker",
+    "platformAddedDate": "2025-04-20",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Simplify your daily routine with this efficient and reliable appliance. Features modern design and advanced technology.",
+    "reviews": [
+      {
+        "id": 460,
+        "userName": "William P.",
+        "rating": 4.2,
+        "comment": "Easy to set up and use.",
+        "date": "2025-03-11"
+      },
+      {
+        "id": 461,
+        "userName": "James H.",
+        "rating": 3.5,
+        "comment": "Easy to set up and use.",
+        "date": "2025-02-09"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Nintendo Controller",
+    "type": "Video Games",
+    "price": 370.99,
+    "rating": 4.4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Nintendo%20Controller",
+    "platformAddedDate": "2025-04-01",
+    "shortDescription": "Next-Gen Gaming Experience",
+    "longDescription": "Designed for competitive gamers with precision controls and minimal latency. Built to withstand intense gaming sessions.",
+    "reviews": [
+      {
+        "id": 470,
+        "userName": "David L.",
+        "rating": 3.8,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-04-13"
+      },
+      {
+        "id": 471,
+        "userName": "Olivia M.",
+        "rating": 3.5,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-05-07"
+      },
+      {
+        "id": 472,
+        "userName": "Sophia G.",
+        "rating": 4.7,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-04-23"
+      },
+      {
+        "id": 473,
+        "userName": "Richard F.",
+        "rating": 4.9,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-03-31"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Dyson Vacuum",
+    "type": "Appliances",
+    "price": 310.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Dyson%20Vacuum",
+    "platformAddedDate": "2025-04-21",
+    "shortDescription": "Energy-Efficient Appliance",
+    "longDescription": "Professional-grade performance brings commercial quality to your home. Features intuitive controls and premium finish.",
+    "reviews": [
+      {
+        "id": 480,
+        "userName": "Charlotte W.",
+        "rating": 3.4,
+        "comment": "Perfect for my needs.",
+        "date": "2025-03-03"
+      },
+      {
+        "id": 481,
+        "userName": "David L.",
+        "rating": 4.8,
+        "comment": "Easy to set up and use.",
+        "date": "2025-02-14"
+      },
+      {
+        "id": 482,
+        "userName": "James H.",
+        "rating": 4.1,
+        "comment": "Love the design and functionality.",
+        "date": "2025-02-15"
+      },
+      {
+        "id": 483,
+        "userName": "Michael S.",
+        "rating": 3.4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-12"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Lenovo All-in-One",
+    "type": "Computers",
+    "price": 1023.99,
+    "rating": 4.4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Lenovo%20All-in-One",
+    "platformAddedDate": "2025-04-04",
+    "shortDescription": "Premium PC with SSD",
+    "longDescription": "All-day battery life in an incredibly thin and light design. Perfect for productivity on the go with premium build quality.",
+    "reviews": [
+      {
+        "id": 490,
+        "userName": "Jennifer K.",
+        "rating": 3.6,
+        "comment": "Best purchase I've made this year.",
+        "date": "2025-03-09"
+      },
+      {
+        "id": 491,
+        "userName": "Mia J.",
+        "rating": 3.6,
+        "comment": "Perfect for my needs.",
+        "date": "2025-02-24"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "LG Crystal UHD",
+    "type": "TVs",
+    "price": 1912.99,
+    "rating": 3.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=LG%20Crystal%20UHD",
+    "platformAddedDate": "2025-03-12",
+    "shortDescription": "AI-Powered Smart TV",
+    "longDescription": "Enjoy crystal clear resolution with amazing contrast and brightness. Comes with built-in streaming apps and game mode.",
+    "reviews": [
+      {
+        "id": 500,
+        "userName": "Isabella N.",
+        "rating": 4.6,
+        "comment": "Perfect for my needs.",
+        "date": "2025-05-04"
+      },
+      {
+        "id": 501,
+        "userName": "Joseph D.",
+        "rating": 3.5,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-03-24"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Whirlpool Air Purifier",
+    "type": "Appliances",
+    "price": 864.99,
+    "rating": 4.4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Whirlpool%20Air%20Purifier",
+    "platformAddedDate": "2025-04-08",
+    "shortDescription": "Premium Kitchen Appliance",
+    "longDescription": "Professional-grade performance brings commercial quality to your home. Features intuitive controls and premium finish.",
+    "reviews": [
+      {
+        "id": 510,
+        "userName": "Michael S.",
+        "rating": 4,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-03-26"
+      },
+      {
+        "id": 511,
+        "userName": "Richard F.",
+        "rating": 3.6,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-18"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Steam Controller",
+    "type": "Video Games",
+    "price": 353.99,
+    "rating": 3.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Steam%20Controller",
+    "platformAddedDate": "2025-03-18",
+    "shortDescription": "Immersive Gaming System",
+    "longDescription": "Enhanced gaming experience with premium materials and ergonomic design. Compatible with all major gaming platforms.",
+    "reviews": [
+      {
+        "id": 520,
+        "userName": "Olivia M.",
+        "rating": 4.2,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-11"
+      },
+      {
+        "id": 521,
+        "userName": "Robert T.",
+        "rating": 3.5,
+        "comment": "Love the design and functionality.",
+        "date": "2025-04-17"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "ASUS All-in-One",
+    "type": "Computers",
+    "price": 708.99,
+    "rating": 4.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=ASUS%20All-in-One",
+    "platformAddedDate": "2025-02-08",
+    "shortDescription": "Powerful Workstation",
+    "longDescription": "Professional-grade performance for creative and technical workflows. Features expanded connectivity and upgrade options.",
+    "reviews": [
+      {
+        "id": 530,
+        "userName": "James H.",
+        "rating": 3.2,
+        "comment": "Easy to set up and use.",
+        "date": "2025-03-18"
+      },
+      {
+        "id": 531,
+        "userName": "William P.",
+        "rating": 4.2,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-02-19"
+      },
+      {
+        "id": 532,
+        "userName": "Robert T.",
+        "rating": 3,
+        "comment": "Great value for the price.",
+        "date": "2025-04-28"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Vizio OLED",
+    "type": "TVs",
+    "price": 794.99,
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Vizio%20OLED",
+    "platformAddedDate": "2025-04-22",
+    "shortDescription": "AI-Powered Smart TV",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 540,
+        "userName": "Jennifer K.",
+        "rating": 3.5,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-03-21"
+      },
+      {
+        "id": 541,
+        "userName": "Mia J.",
+        "rating": 4.8,
+        "comment": "Absolutely love this product!",
+        "date": "2025-03-14"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "KitchenAid Vacuum",
+    "type": "Appliances",
+    "price": 1178.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=KitchenAid%20Vacuum",
+    "platformAddedDate": "2025-04-12",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Save on energy costs while enjoying premium performance. Features quiet operation and durable construction.",
+    "reviews": [
+      {
+        "id": 550,
+        "userName": "David L.",
+        "rating": 4.9,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-04-10"
+      },
+      {
+        "id": 551,
+        "userName": "Thomas B.",
+        "rating": 3.5,
+        "comment": "Perfect for my needs.",
+        "date": "2025-03-22"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Maytag Coffee Maker",
+    "type": "Appliances",
+    "price": 339.99,
+    "rating": 3.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Maytag%20Coffee%20Maker",
+    "platformAddedDate": "2025-02-15",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Simplify your daily routine with this efficient and reliable appliance. Features modern design and advanced technology.",
+    "reviews": [
+      {
+        "id": 560,
+        "userName": "David L.",
+        "rating": 3.1,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-04-18"
+      },
+      {
+        "id": 561,
+        "userName": "Richard F.",
+        "rating": 4.9,
+        "comment": "Perfect for my needs.",
+        "date": "2025-04-22"
+      },
+      {
+        "id": 562,
+        "userName": "David L.",
+        "rating": 3.6,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-22"
+      },
+      {
+        "id": 563,
+        "userName": "James H.",
+        "rating": 4.3,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Nintendo Gaming Chair",
+    "type": "Video Games",
+    "price": 220.99,
+    "rating": 3.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Nintendo%20Gaming%20Chair",
+    "platformAddedDate": "2025-04-28",
+    "shortDescription": "High-Performance Gaming",
+    "longDescription": "Enhanced gaming experience with premium materials and ergonomic design. Compatible with all major gaming platforms.",
+    "reviews": [
+      {
+        "id": 570,
+        "userName": "Sophia G.",
+        "rating": 4.2,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-03-26"
+      },
+      {
+        "id": 571,
+        "userName": "Isabella N.",
+        "rating": 3.2,
+        "comment": "Better than expected quality.",
+        "date": "2025-02-23"
+      },
+      {
+        "id": 572,
+        "userName": "Ava C.",
+        "rating": 3.6,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-10"
+      },
+      {
+        "id": 573,
+        "userName": "Mia J.",
+        "rating": 3.4,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-04-04"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Alienware Streaming Deck",
+    "type": "Video Games",
+    "price": 323.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Alienware%20Streaming%20Deck",
+    "platformAddedDate": "2025-04-10",
+    "shortDescription": "High-Performance Gaming",
+    "longDescription": "Take your gaming to the next level with cutting-edge graphics and ultra-fast loading times. Experience games like never before.",
+    "reviews": [
+      {
+        "id": 580,
+        "userName": "Ava C.",
+        "rating": 3.8,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-04-28"
+      },
+      {
+        "id": 581,
+        "userName": "James H.",
+        "rating": 3.3,
+        "comment": "Love the design and functionality.",
+        "date": "2025-04-15"
+      },
+      {
+        "id": 582,
+        "userName": "Olivia M.",
+        "rating": 3.9,
+        "comment": "Absolutely love this product!",
+        "date": "2025-02-19"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Samsung Air Purifier",
+    "type": "Appliances",
+    "price": 717.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Samsung%20Air%20Purifier",
+    "platformAddedDate": "2025-04-10",
+    "shortDescription": "Smart Home Appliance",
+    "longDescription": "Professional-grade performance brings commercial quality to your home. Features intuitive controls and premium finish.",
+    "reviews": [
+      {
+        "id": 590,
+        "userName": "Emma R.",
+        "rating": 3.9,
+        "comment": "Great value for the price.",
+        "date": "2025-04-15"
+      },
+      {
+        "id": 591,
+        "userName": "James H.",
+        "rating": 4.5,
+        "comment": "Absolutely love this product!",
+        "date": "2025-04-28"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "TCL NanoCell",
+    "type": "TVs",
+    "price": 539.99,
+    "rating": 4.4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=TCL%20NanoCell",
+    "platformAddedDate": "2025-02-21",
+    "shortDescription": "Ultra HD Smart Television",
+    "longDescription": "Revolutionary display technology delivers incredible picture quality with true-to-life colors and perfect blacks.",
+    "reviews": [
+      {
+        "id": 600,
+        "userName": "Sophia G.",
+        "rating": 4,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-04-18"
+      },
+      {
+        "id": 601,
+        "userName": "David L.",
+        "rating": 4.4,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-03-19"
+      },
+      {
+        "id": 602,
+        "userName": "Michael S.",
+        "rating": 3.5,
+        "comment": "Great value for the price.",
+        "date": "2025-04-20"
+      },
+      {
+        "id": 603,
+        "userName": "Joseph D.",
+        "rating": 3.7,
+        "comment": "Easy to set up and use.",
+        "date": "2025-04-06"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Samsung Smart TV",
+    "type": "TVs",
+    "price": 1155.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Samsung%20Smart%20TV",
+    "platformAddedDate": "2025-04-05",
+    "shortDescription": "4K Smart TV with HDR",
+    "longDescription": "Immerse yourself in lifelike picture quality with HDR technology. Smart features allow easy access to your favorite content.",
+    "reviews": [
+      {
+        "id": 610,
+        "userName": "David L.",
+        "rating": 4.9,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-29"
+      },
+      {
+        "id": 611,
+        "userName": "Thomas B.",
+        "rating": 4.8,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-04-22"
+      },
+      {
+        "id": 612,
+        "userName": "Mia J.",
+        "rating": 4.5,
+        "comment": "Best purchase I've made this year.",
+        "date": "2025-04-30"
+      },
+      {
+        "id": 613,
+        "userName": "Sophia G.",
+        "rating": 4.2,
+        "comment": "Solid performance.",
+        "date": "2025-03-15"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Sonos Receiver",
+    "type": "Audio",
+    "price": 333.99,
+    "rating": 4.2,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Sonos%20Receiver",
+    "platformAddedDate": "2025-04-17",
+    "shortDescription": "High-Fidelity Audio Experience",
+    "longDescription": "Advanced noise cancellation technology blocks out the world around you. Enjoy your music without distractions.",
+    "reviews": [
+      {
+        "id": 620,
+        "userName": "Ava C.",
+        "rating": 4.3,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-18"
+      },
+      {
+        "id": 621,
+        "userName": "Thomas B.",
+        "rating": 3.6,
+        "comment": "Perfect for my needs.",
+        "date": "2025-02-23"
+      },
+      {
+        "id": 622,
+        "userName": "James H.",
+        "rating": 4.1,
+        "comment": "Works exactly as described.",
+        "date": "2025-04-27"
+      },
+      {
+        "id": 623,
+        "userName": "Mia J.",
+        "rating": 3.9,
+        "comment": "Solid performance.",
+        "date": "2025-03-16"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "HP Ultrabook",
+    "type": "Computers",
+    "price": 1262.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=HP%20Ultrabook",
+    "platformAddedDate": "2025-05-01",
+    "shortDescription": "High-Performance Laptop",
+    "longDescription": "Lightning-fast SSD storage and ample RAM for smooth multitasking. Designed for both work and entertainment.",
+    "reviews": [
+      {
+        "id": 630,
+        "userName": "Emma R.",
+        "rating": 3.1,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-03-20"
+      },
+      {
+        "id": 631,
+        "userName": "Charlotte W.",
+        "rating": 3.3,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-04-24"
+      },
+      {
+        "id": 632,
+        "userName": "Michael S.",
+        "rating": 4.1,
+        "comment": "Great value for the price.",
+        "date": "2025-03-08"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Microsoft Workstation",
+    "type": "Computers",
+    "price": 769.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Microsoft%20Workstation",
+    "platformAddedDate": "2025-02-10",
+    "shortDescription": "Ultra-Thin Laptop with Long Battery Life",
+    "longDescription": "Professional-grade performance for creative and technical workflows. Features expanded connectivity and upgrade options.",
+    "reviews": [
+      {
+        "id": 640,
+        "userName": "Emma R.",
+        "rating": 3.8,
+        "comment": "Works exactly as described.",
+        "date": "2025-03-11"
+      },
+      {
+        "id": 641,
+        "userName": "Ava C.",
+        "rating": 4,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-27"
+      },
+      {
+        "id": 642,
+        "userName": "Charlotte W.",
+        "rating": 4.5,
+        "comment": "Absolutely love this product!",
+        "date": "2025-02-18"
+      },
+      {
+        "id": 643,
+        "userName": "Jennifer K.",
+        "rating": 4,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-03-28"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Nintendo Controller",
+    "type": "Video Games",
+    "price": 242.99,
+    "rating": 3.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Nintendo%20Controller",
+    "platformAddedDate": "2025-05-01",
+    "shortDescription": "Premium Gaming Accessory",
+    "longDescription": "Take your gaming to the next level with cutting-edge graphics and ultra-fast loading times. Experience games like never before.",
+    "reviews": [
+      {
+        "id": 650,
+        "userName": "Robert T.",
+        "rating": 4.3,
+        "comment": "Easy to set up and use.",
+        "date": "2025-04-05"
+      },
+      {
+        "id": 651,
+        "userName": "William P.",
+        "rating": 3.2,
+        "comment": "Works exactly as described.",
+        "date": "2025-04-28"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Apple Ultrabook",
+    "type": "Computers",
+    "price": 915.99,
+    "rating": 3.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Apple%20Ultrabook",
+    "platformAddedDate": "2025-04-29",
+    "shortDescription": "High-Performance Laptop",
+    "longDescription": "Professional-grade performance for creative and technical workflows. Features expanded connectivity and upgrade options.",
+    "reviews": [
+      {
+        "id": 660,
+        "userName": "Charlotte W.",
+        "rating": 3.5,
+        "comment": "Absolutely love this product!",
+        "date": "2025-05-04"
+      },
+      {
+        "id": 661,
+        "userName": "Olivia M.",
+        "rating": 4.5,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-04-11"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Oculus Controller",
+    "type": "Video Games",
+    "price": 50.99,
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Oculus%20Controller",
+    "platformAddedDate": "2025-04-14",
+    "shortDescription": "Premium Gaming Accessory",
+    "longDescription": "Immerse yourself in stunning worlds with realistic graphics and 3D audio. Features advanced haptic feedback for deeper immersion.",
+    "reviews": [
+      {
+        "id": 670,
+        "userName": "William P.",
+        "rating": 4.1,
+        "comment": "Easy to set up and use.",
+        "date": "2025-02-19"
+      },
+      {
+        "id": 671,
+        "userName": "James H.",
+        "rating": 3.5,
+        "comment": "Solid performance.",
+        "date": "2025-03-11"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Bosch Microwave",
+    "type": "Appliances",
+    "price": 315.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Bosch%20Microwave",
+    "platformAddedDate": "2025-02-26",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Save on energy costs while enjoying premium performance. Features quiet operation and durable construction.",
+    "reviews": [
+      {
+        "id": 680,
+        "userName": "Jennifer K.",
+        "rating": 3.3,
+        "comment": "Perfect for my needs.",
+        "date": "2025-03-14"
+      },
+      {
+        "id": 681,
+        "userName": "Mia J.",
+        "rating": 4.3,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-04-28"
+      },
+      {
+        "id": 682,
+        "userName": "Isabella N.",
+        "rating": 4.2,
+        "comment": "Easy to set up and use.",
+        "date": "2025-04-07"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Philips NanoCell",
+    "type": "TVs",
+    "price": 2071.99,
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Philips%20NanoCell",
+    "platformAddedDate": "2025-02-10",
+    "shortDescription": "Ultra HD Smart Television",
+    "longDescription": "Enjoy crystal clear resolution with amazing contrast and brightness. Comes with built-in streaming apps and game mode.",
+    "reviews": [
+      {
+        "id": 690,
+        "userName": "Michael S.",
+        "rating": 4.9,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-03-08"
+      },
+      {
+        "id": 691,
+        "userName": "Thomas B.",
+        "rating": 4.1,
+        "comment": "Easy to set up and use.",
+        "date": "2025-04-25"
+      },
+      {
+        "id": 692,
+        "userName": "Ava C.",
+        "rating": 3.1,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-02-18"
+      },
+      {
+        "id": 693,
+        "userName": "Olivia M.",
+        "rating": 4.3,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-03-23"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "ASUS Workstation",
+    "type": "Computers",
+    "price": 1064.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=ASUS%20Workstation",
+    "platformAddedDate": "2025-04-18",
+    "shortDescription": "High-Performance Laptop",
+    "longDescription": "All-day battery life in an incredibly thin and light design. Perfect for productivity on the go with premium build quality.",
+    "reviews": [
+      {
+        "id": 700,
+        "userName": "Robert T.",
+        "rating": 3.2,
+        "comment": "Love the design and functionality.",
+        "date": "2025-03-01"
+      },
+      {
+        "id": 701,
+        "userName": "Mia J.",
+        "rating": 4,
+        "comment": "Works exactly as described.",
+        "date": "2025-04-14"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Apple Max",
+    "type": "Phones",
+    "price": 876.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Apple%20Max",
+    "platformAddedDate": "2025-02-27",
+    "shortDescription": "5G Smartphone with Pro Camera",
+    "longDescription": "Stunning AMOLED display with high refresh rate for smooth scrolling. Long-lasting battery and fast charging technology.",
+    "reviews": [
+      {
+        "id": 710,
+        "userName": "Emma R.",
+        "rating": 3.8,
+        "comment": "Easy to set up and use.",
+        "date": "2025-03-14"
+      },
+      {
+        "id": 711,
+        "userName": "Richard F.",
+        "rating": 4.2,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Philips Smart TV",
+    "type": "TVs",
+    "price": 1804.99,
+    "rating": 3.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Philips%20Smart%20TV",
+    "platformAddedDate": "2025-04-04",
+    "shortDescription": "AI-Powered Smart TV",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 720,
+        "userName": "William P.",
+        "rating": 4.4,
+        "comment": "Better than expected quality.",
+        "date": "2025-02-19"
+      },
+      {
+        "id": 721,
+        "userName": "Robert T.",
+        "rating": 4.6,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-03-07"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "ASUS Ultrabook",
+    "type": "Computers",
+    "price": 782.99,
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=ASUS%20Ultrabook",
+    "platformAddedDate": "2025-04-07",
+    "shortDescription": "Ultra-Thin Laptop with Long Battery Life",
+    "longDescription": "Professional-grade performance for creative and technical workflows. Features expanded connectivity and upgrade options.",
+    "reviews": [
+      {
+        "id": 730,
+        "userName": "Richard F.",
+        "rating": 3.9,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-02-21"
+      },
+      {
+        "id": 731,
+        "userName": "Richard F.",
+        "rating": 4.7,
+        "comment": "Absolutely love this product!",
+        "date": "2025-02-26"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "LG Blender",
+    "type": "Appliances",
+    "price": 613.99,
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=LG%20Blender",
+    "platformAddedDate": "2025-03-15",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Save on energy costs while enjoying premium performance. Features quiet operation and durable construction.",
+    "reviews": [
+      {
+        "id": 740,
+        "userName": "Joseph D.",
+        "rating": 4,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-05-07"
+      },
+      {
+        "id": 741,
+        "userName": "Olivia M.",
+        "rating": 4.6,
+        "comment": "Absolutely love this product!",
+        "date": "2025-04-13"
+      },
+      {
+        "id": 742,
+        "userName": "Ava C.",
+        "rating": 3.8,
+        "comment": "Better than expected quality.",
+        "date": "2025-03-09"
+      },
+      {
+        "id": 743,
+        "userName": "James H.",
+        "rating": 3.3,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-02-14"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "MSI Desktop",
+    "type": "Computers",
+    "price": 1858.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=MSI%20Desktop",
+    "platformAddedDate": "2025-02-09",
+    "shortDescription": "Premium PC with SSD",
+    "longDescription": "Blazing-fast performance for demanding tasks with the latest processor and graphics. Features a premium display and build quality.",
+    "reviews": [
+      {
+        "id": 750,
+        "userName": "Jennifer K.",
+        "rating": 3.9,
+        "comment": "Perfect for my needs.",
+        "date": "2025-04-23"
+      },
+      {
+        "id": 751,
+        "userName": "David L.",
+        "rating": 3.4,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-03-29"
+      },
+      {
+        "id": 752,
+        "userName": "Sophia G.",
+        "rating": 4.6,
+        "comment": "Works exactly as described.",
+        "date": "2025-04-18"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Steam VR Headset",
+    "type": "Video Games",
+    "price": 303.99,
+    "rating": 3.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Steam%20VR%20Headset",
+    "platformAddedDate": "2025-02-28",
+    "shortDescription": "Premium Gaming Accessory",
+    "longDescription": "Immerse yourself in stunning worlds with realistic graphics and 3D audio. Features advanced haptic feedback for deeper immersion.",
+    "reviews": [
+      {
+        "id": 760,
+        "userName": "David L.",
+        "rating": 3.6,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-03-04"
+      },
+      {
+        "id": 761,
+        "userName": "Mia J.",
+        "rating": 3.8,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-04-28"
+      },
+      {
+        "id": 762,
+        "userName": "Joseph D.",
+        "rating": 3.5,
+        "comment": "Absolutely love this product!",
+        "date": "2025-02-12"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "PlayStation VR Headset",
+    "type": "Video Games",
+    "price": 186.99,
+    "rating": 4.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=PlayStation%20VR%20Headset",
+    "platformAddedDate": "2025-03-19",
+    "shortDescription": "Immersive Gaming System",
+    "longDescription": "Take your gaming to the next level with cutting-edge graphics and ultra-fast loading times. Experience games like never before.",
+    "reviews": [
+      {
+        "id": 770,
+        "userName": "Richard F.",
+        "rating": 4.1,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-04-22"
+      },
+      {
+        "id": 771,
+        "userName": "Charlotte W.",
+        "rating": 3.6,
+        "comment": "Solid performance.",
+        "date": "2025-02-09"
+      },
+      {
+        "id": 772,
+        "userName": "Olivia M.",
+        "rating": 3.1,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-24"
+      },
+      {
+        "id": 773,
+        "userName": "Olivia M.",
+        "rating": 4.9,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-05"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "MSI Workstation",
+    "type": "Computers",
+    "price": 1337.99,
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=MSI%20Workstation",
+    "platformAddedDate": "2025-05-04",
+    "shortDescription": "Powerful Workstation",
+    "longDescription": "All-day battery life in an incredibly thin and light design. Perfect for productivity on the go with premium build quality.",
+    "reviews": [
+      {
+        "id": 780,
+        "userName": "Charlotte W.",
+        "rating": 3.8,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-18"
+      },
+      {
+        "id": 781,
+        "userName": "Charlotte W.",
+        "rating": 4.5,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-03-30"
+      },
+      {
+        "id": 782,
+        "userName": "Ava C.",
+        "rating": 3.2,
+        "comment": "Solid performance.",
+        "date": "2025-03-05"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Whirlpool Vacuum",
+    "type": "Appliances",
+    "price": 566.99,
+    "rating": 5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Whirlpool%20Vacuum",
+    "platformAddedDate": "2025-04-08",
+    "shortDescription": "Connected Home Solution",
+    "longDescription": "Simplify your daily routine with this efficient and reliable appliance. Features modern design and advanced technology.",
+    "reviews": [
+      {
+        "id": 790,
+        "userName": "William P.",
+        "rating": 4.5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-05-02"
+      },
+      {
+        "id": 791,
+        "userName": "Isabella N.",
+        "rating": 4.4,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-08"
+      },
+      {
+        "id": 792,
+        "userName": "James H.",
+        "rating": 4.3,
+        "comment": "Works exactly as described.",
+        "date": "2025-03-20"
+      },
+      {
+        "id": 793,
+        "userName": "Thomas B.",
+        "rating": 3.1,
+        "comment": "Love the design and functionality.",
+        "date": "2025-03-17"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Hisense Crystal UHD",
+    "type": "TVs",
+    "price": 1009.99,
+    "rating": 4.2,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Hisense%20Crystal%20UHD",
+    "platformAddedDate": "2025-04-25",
+    "shortDescription": "Ultra HD Smart Television",
+    "longDescription": "Experience stunning picture quality with vibrant colors and deep blacks. Features smart streaming capabilities and voice control.",
+    "reviews": [
+      {
+        "id": 800,
+        "userName": "Thomas B.",
+        "rating": 3.5,
+        "comment": "Love the design and functionality.",
+        "date": "2025-02-09"
+      },
+      {
+        "id": 801,
+        "userName": "Robert T.",
+        "rating": 3.9,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-14"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Anker Turntable",
+    "type": "Audio",
+    "price": 332.99,
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Anker%20Turntable",
+    "platformAddedDate": "2025-04-18",
+    "shortDescription": "Wireless Audio with Deep Bass",
+    "longDescription": "Advanced noise cancellation technology blocks out the world around you. Enjoy your music without distractions.",
+    "reviews": [
+      {
+        "id": 810,
+        "userName": "David L.",
+        "rating": 4.4,
+        "comment": "Works exactly as described.",
+        "date": "2025-02-14"
+      },
+      {
+        "id": 811,
+        "userName": "Ava C.",
+        "rating": 4,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-02-21"
+      },
+      {
+        "id": 812,
+        "userName": "James H.",
+        "rating": 4.6,
+        "comment": "Great value for the price.",
+        "date": "2025-05-03"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Xiaomi Elite",
+    "type": "Phones",
+    "price": 863.99,
+    "rating": 4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Xiaomi%20Elite",
+    "platformAddedDate": "2025-03-11",
+    "shortDescription": "5G Smartphone with Pro Camera",
+    "longDescription": "Experience lightning-fast performance with the latest processor and 5G connectivity. Features a professional-grade camera system.",
+    "reviews": [
+      {
+        "id": 820,
+        "userName": "James H.",
+        "rating": 3.3,
+        "comment": "Better than expected quality.",
+        "date": "2025-03-10"
+      },
+      {
+        "id": 821,
+        "userName": "Thomas B.",
+        "rating": 4.5,
+        "comment": "Perfect for my needs.",
+        "date": "2025-02-18"
+      },
+      {
+        "id": 822,
+        "userName": "Mia J.",
+        "rating": 3.7,
+        "comment": "Best purchase I've made this year.",
+        "date": "2025-02-08"
+      },
+      {
+        "id": 823,
+        "userName": "David L.",
+        "rating": 3.6,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-02-23"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Philips 8K Ultra",
+    "type": "TVs",
+    "price": 736.99,
+    "rating": 4.4,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Philips%208K%20Ultra",
+    "platformAddedDate": "2025-03-29",
+    "shortDescription": "4K Smart TV with HDR",
+    "longDescription": "Immerse yourself in lifelike picture quality with HDR technology. Smart features allow easy access to your favorite content.",
+    "reviews": [
+      {
+        "id": 830,
+        "userName": "Sophia G.",
+        "rating": 3.4,
+        "comment": "Perfect for my needs.",
+        "date": "2025-03-15"
+      },
+      {
+        "id": 831,
+        "userName": "Charlotte W.",
+        "rating": 3.2,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-02-22"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "MSI Ultrabook",
+    "type": "Computers",
+    "price": 1484.99,
+    "rating": 4.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=MSI%20Ultrabook",
+    "platformAddedDate": "2025-02-21",
+    "shortDescription": "Powerful Workstation",
+    "longDescription": "Professional-grade performance for creative and technical workflows. Features expanded connectivity and upgrade options.",
+    "reviews": [
+      {
+        "id": 840,
+        "userName": "Ava C.",
+        "rating": 4.6,
+        "comment": "Easy to set up and use.",
+        "date": "2025-04-26"
+      },
+      {
+        "id": 841,
+        "userName": "Charlotte W.",
+        "rating": 4.8,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-05-01"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Oculus Gaming Monitor",
+    "type": "Video Games",
+    "price": 342.99,
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Oculus%20Gaming%20Monitor",
+    "platformAddedDate": "2025-04-05",
+    "shortDescription": "Next-Gen Gaming Experience",
+    "longDescription": "Immerse yourself in stunning worlds with realistic graphics and 3D audio. Features advanced haptic feedback for deeper immersion.",
+    "reviews": [
+      {
+        "id": 850,
+        "userName": "Sophia G.",
+        "rating": 4.5,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-04-20"
+      },
+      {
+        "id": 851,
+        "userName": "Mia J.",
+        "rating": 4.1,
+        "comment": "Could be better but overall satisfied.",
+        "date": "2025-02-25"
+      },
+      {
+        "id": 852,
+        "userName": "James H.",
+        "rating": 4.3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-16"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Bosch Refrigerator",
+    "type": "Appliances",
+    "price": 1008.99,
+    "rating": 3.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Bosch%20Refrigerator",
+    "platformAddedDate": "2025-04-18",
+    "shortDescription": "Energy-Efficient Appliance",
+    "longDescription": "Save on energy costs while enjoying premium performance. Features quiet operation and durable construction.",
+    "reviews": [
+      {
+        "id": 860,
+        "userName": "Charlotte W.",
+        "rating": 5,
+        "comment": "Very impressed with the quality.",
+        "date": "2025-04-29"
+      },
+      {
+        "id": 861,
+        "userName": "Joseph D.",
+        "rating": 3,
+        "comment": "Better than expected quality.",
+        "date": "2025-02-24"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Lenovo Desktop",
+    "type": "Computers",
+    "price": 809.99,
+    "rating": 3.8,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Lenovo%20Desktop",
+    "platformAddedDate": "2025-02-17",
+    "shortDescription": "Ultra-Thin Laptop with Long Battery Life",
+    "longDescription": "Lightning-fast SSD storage and ample RAM for smooth multitasking. Designed for both work and entertainment.",
+    "reviews": [
+      {
+        "id": 870,
+        "userName": "Robert T.",
+        "rating": 4.8,
+        "comment": "Good quality but shipping was slow.",
+        "date": "2025-04-20"
+      },
+      {
+        "id": 871,
+        "userName": "Jennifer K.",
+        "rating": 4.6,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-04-21"
+      },
+      {
+        "id": 872,
+        "userName": "Michael S.",
+        "rating": 4.9,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-04-19"
+      },
+      {
+        "id": 873,
+        "userName": "James H.",
+        "rating": 4,
+        "comment": "Absolutely love this product!",
+        "date": "2025-02-13"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "OnePlus Fold",
+    "type": "Phones",
+    "price": 954.99,
+    "rating": 3.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=OnePlus%20Fold",
+    "platformAddedDate": "2025-03-17",
+    "shortDescription": "Premium Smartphone with All-Day Battery",
+    "longDescription": "Experience lightning-fast performance with the latest processor and 5G connectivity. Features a professional-grade camera system.",
+    "reviews": [
+      {
+        "id": 880,
+        "userName": "Jennifer K.",
+        "rating": 3.7,
+        "comment": "Would definitely recommend to friends.",
+        "date": "2025-02-11"
+      },
+      {
+        "id": 881,
+        "userName": "Isabella N.",
+        "rating": 4,
+        "comment": "Perfect for my needs.",
+        "date": "2025-03-10"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Dell Convertible",
+    "type": "Computers",
+    "price": 699.99,
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=Dell%20Convertible",
+    "platformAddedDate": "2025-02-19",
+    "shortDescription": "Ultra-Thin Laptop with Long Battery Life",
+    "longDescription": "Blazing-fast performance for demanding tasks with the latest processor and graphics. Features a premium display and build quality.",
+    "reviews": [
+      {
+        "id": 890,
+        "userName": "Joseph D.",
+        "rating": 3.1,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-05-03"
+      },
+      {
+        "id": 891,
+        "userName": "Robert T.",
+        "rating": 3.1,
+        "comment": "Absolutely love this product!",
+        "date": "2025-03-26"
+      },
+      {
+        "id": 892,
+        "userName": "Emma R.",
+        "rating": 3.5,
+        "comment": "Works exactly as described.",
+        "date": "2025-03-21"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "ASUS Workstation",
+    "type": "Computers",
+    "price": 1795.99,
+    "rating": 4.9,
+    "imageUrl": "https://placehold.co/400x200/db9834/black?font=playfair-display&text=ASUS%20Workstation",
+    "platformAddedDate": "2025-03-10",
+    "shortDescription": "Ultra-Thin Laptop with Long Battery Life",
+    "longDescription": "Blazing-fast performance for demanding tasks with the latest processor and graphics. Features a premium display and build quality.",
+    "reviews": [
+      {
+        "id": 900,
+        "userName": "Joseph D.",
+        "rating": 3.1,
+        "comment": "Great customer service when I had questions.",
+        "date": "2025-03-26"
+      },
+      {
+        "id": 901,
+        "userName": "Isabella N.",
+        "rating": 4.7,
+        "comment": "A bit pricey but worth the investment.",
+        "date": "2025-03-23"
+      }
+    ]
+  }
+]
