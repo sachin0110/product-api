@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const fs = require("fs");
 const app = express();
-const PORT = 3000;
+const port = process.env.PORT || 3000;
 
 app.use(cors());
 
@@ -12,6 +12,6 @@ app.get("/api/products", (req, res) => {
   res.json(JSON.parse(data));
 });
 
-app.listen(PORT, () => {
-  console.log(`✅ Mock API running at http://localhost:${PORT}/api/products`);
-});
+app.listen(port, () =>
+  console.log(`✅ Mock API running at http://localhost:${port}/api/products`)
+);
